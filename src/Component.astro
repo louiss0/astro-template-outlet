@@ -1,3 +1,11 @@
 ---
-// Write your component code in this file!
+interface Props {
+	templateId: string;
+}
+
+const { templateId } = Astro.props;
 ---
+
+<br data-template-name={templateId} />
+
+<script src="./main.ts"></script>

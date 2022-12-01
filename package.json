@@ -1,6 +1,6 @@
 {
-  "name": "astro-component-name",
-  "version": "0.1.0",
+  "name": "astro-template-outlet",
+  "version": "1.0.0",
   "type": "module",
   "exports": {
     ".": "./index.ts"
