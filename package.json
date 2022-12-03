@@ -1,6 +1,6 @@
 {
   "name": "astro-template-outlet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "exports": {
     ".": "./index.ts"
@@ -11,7 +11,9 @@
   ],
   "keywords": [
     "astro-component",
-    "astro-integration"
+    "astro-integration",
+    "ui"
+
   ],
   "scripts": {
     "test": "mocha --parallel --timeout 15000",
